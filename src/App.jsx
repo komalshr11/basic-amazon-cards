@@ -4,8 +4,11 @@ import MsgBox from  "./MsgBox.jsx";
 
 function App() {
   return(
- 
- <ProductTab/>
+<> 
+<h2>Blockbusters Deals on Computer Accessories | Shop Now </h2>
+<ProductTab/>
+</>
+
 
   )
 };
